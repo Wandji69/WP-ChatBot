@@ -1,16 +1,23 @@
 from flask import Flask, render_template, request
 from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer
+from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
+from cleaner import clean_corpus
 
 app = Flask(__name__)
 
-english_bot = ChatBot("Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
-trainer = ChatterBotCorpusTrainer(english_bot)
-trainer.train("chatterbot.corpus.english")
+CORPUS_FILE = "chat.txt"
+
+english_bot = ChatBot(
+    "Chatterbot", storage_adapter="chatterbot.storage.SQLStorageAdapter")
+trainer = ListTrainer(english_bot)
+cleaned_corpus = clean_corpus(CORPUS_FILE)
+trainer.train(cleaned_corpus)
+
 
 @app.route("/")
 def home():
     return render_template("index.html")
+
 
 @app.route("/get")
 def get_bot_response():

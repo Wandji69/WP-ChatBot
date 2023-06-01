@@ -1,0 +1,141 @@
+9/15/22, 14:50 - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+9/15/22, 14:49 - Philipp: Hi, Philipp here!
+9/15/22, 14:50 - Martin: How can i be of help to you Philipp?
+9/15/22, 14:51 - Philipp: I'm new here and need a lot of clarification.
+9/15/22, 14:52 - Martin: Ofcourse, how are you liking it here so far?
+9/15/22, 14:52 - Philipp: everything is strange!
+9/15/22, 14:52 - Martin: That's usual for a starter, i'll be your personal assistant
+9/15/22, 14:52 - Philipp: How long do lectures go on?
+9/15/22, 14:53 - Martin: Each lecture session takes 2 hours.
+9/15/22, 14:53 - Philipp: are there any tutorial?
+9/15/22, 14:53 - Martin: Yes, lecturers hold tutorial sessions according to their Course Outline.
+9/15/22, 14:53 - Philipp: What is a course outline?
+9/15/22, 14:54 - Martin: Ohh, a Course outline is a breakdown of all lessons to be thought for a particular course.
+9/15/22, 14:54 - Philipp: How do i get them?
+9/15/22, 14:54 - Martin: Each Lecturer will present it to you at the begining of the semester.
+9/15/22, 14:54 - Philipp: Oohhh 🥲
+9/15/22, 14:54 - Martin: Are you ready for lectures?
+9/15/22, 14:56 - Philipp: Yeah! and i want to know what is requires of me this semester as a 200level student
+9/15/22, 14:56 - Martin: You need to take some major courses.
+9/15/22, 14:57 - Philipp: What are the major courses?
+9/15/22, 14:57 - Martin: CSC205- Intro to computer science, csc207- intro to algorithm, csc209- math foundations csc211- probability and statistics
+9/15/22, 14:58 - Philipp: Ahh, is that all...
+9/15/22, 14:58 - Martin: You could add some required courses to gain more credits
+9/15/22, 14:58 - Philipp: what is are required courses?
+9/15/22, 14:58 - Martin: These are courses taken by all students and must be completed before graduation.
+9/15/22, 14:58 - Philipp: Like english, for example?
+9/15/22, 14:59 - Martin: Haha, yes! we have english, french, CVE and sports
+9/15/22, 14:59 - Philipp: This sounds interesting
+9/15/22, 14:59 - Martin: yeah
+9/15/22, 14:59 - Philipp: how many credits will i need?
+9/15/22, 15:00 - Martin: You can have a max of 36 credits each semester.
+9/15/22, 15:01 - Philipp: But my major courses won't sum up to that!
+9/15/22, 15:01 - Martin: That is why you can add other courses from a department of your choice
+9/15/22, 15:01 - Philipp: Which faculty does computer science fall?
+9/15/22, 15:02 - Martin: It is under the faculty of science
+9/15/22, 15:02 - Philipp: I thought as much.
+9/15/22, 15:03 - Martin: Ah, gotcha!
+9/15/22, 15:03 - Philipp: and who is the head of department
+9/15/22, 15:04 - Martin: that should be Dr Denis.
+9/15/22, 15:06 - Philipp: is he my lecturer too?
+9/15/22, 15:06 - Martin: yes! he takes some courses like csc205.
+9/15/22, 15:07 - Philipp: wow, i'd like to meet him
+9/15/22, 15:07 - Martin: Great idea, you could always do that!
+9/15/22, 15:07 - Philipp: Where can i find him?
+9/15/22, 15:07 - Martin: Apart from his lecture classes, you could go directly to his office at  the faculty of science
+9/15/22, 15:07 - Philpp: I'll love to do that
+9/15/22, 15:08 - Martin: he is a very nice lecturer
+9/15/22, 15:08 - Philipp: wow
+9/15/22, 15:08 - Martin: i can assure you
+9/15/22, 15:08 - Philipp: so how do i know my lecture halls?
+9/15/22, 15:08 - Martin: That's easy, you just have to carefully follow your time table.
+9/15/22, 15:08 - Philipp: I mean … the school is too big
+9/15/22, 15:08 - Martin: That's right, but halls are boldly named and you could always ask directions from others
+9/15/22, 15:09 - Philipp: This is going to be tudious!
+9/15/22, 15:13 - Martin: Yeah it stresses during the first few weeks but you'll be alright
+9/15/22, 15:14 - Philipp: which lecturer takes csc207?
+9/15/22, 15:14 - Martin: Mr Mawoh
+9/15/22, 15:15 - Philipp: Dont't we have female lecturers?
+9/15/22, 15:15 - Martin: we do...
+9/15/22, 15:16 - Philipp: tell me more
+9/15/22, 15:16 - Martin: Madam Tabo takes csc211
+9/15/22, 15:17 - Philipp: What about csc209?
+9/15/22, 15:17 - Martin: Mr Bernard
+9/15/22, 15:17 - Philipp: Is that so
+9/15/22, 15:17 - Martin: Mind you, the lecturers could still be changed if they have so much work load
+9/15/22, 15:17 - Philipp: Haha
+9/15/22, 15:17 - Martin: That's right
+9/15/22, 15:18 - Philip: i have more questions
+9/15/22, 15:18 - Martin: ride on, i'm here for that
+9/15/22, 15:18 - Philipp: What will then be my second semester courses
+9/15/22, 15:18 - Martin: csc208-python and C, csc210-matrices, csc214-internet technologies
+9/15/22, 15:18 - Philipp: Oh, they arefew again
+9/15/22, 15:18 - Martin: Yes! which you will still have to add other courses
+9/15/22, 15:18 - Philipp: Why do i need to add courses all the time?
+9/15/22, 15:18 - Martin: This is because you need a certain number of credits summed up at the end of your program
+9/15/22, 15:19 - Philipp: which is?
+9/15/22, 15:19 - Martin: atleast 180 credits
+9/15/22, 15:20 - Philipp: That is plenty!
+9/15/22, 15:20 - Martin: Reason why you should choose elective courses every semester to meet up
+9/15/22, 15:21 - Philipp: So what if i do not meet up with the credits
+9/15/22, 15:22 - Martin: Ohh no! then you won't graduate from here
+9/15/22, 15:22 - Philipp: really!!
+9/15/22, 15:22 - Martin: Yes, you must meet all requirements.
+9/15/22, 15:23 - Philipp: Wait, what are the requirements for graduation?
+9/15/22, 15:24 - Martin: you must reach at least 180 credits and validate all the courses involved
+9/15/22, 15:24 - Philipp: but what if i fail a course?
+9/15/22, 15:24 - Martin: : Lol, then you will have to resit the course at the end of the semester
+9/15/22, 15:25 - Philipp: is that a good one?
+9/15/22, 15:28 - Martin: Ofcourse not, it reduces your GPA especially if you fail again.
+9/15/22, 15:29 - Philipp: Any other options?
+9/15/22, 15:29 - Martin: Yes, you could also retake the course the following year
+9/15/22, 15:30 - Philipp: I really need to work hard
+9/15/22, 15:30 - Martin: yeah that will prevent you from having any issues.
+9/15/22, 15:31 - Philipp: How do i get my final results
+9/15/22, 15:31 - Martin: Final results are posted on the portal
+9/15/22, 15:31 - Philipp: 😢
+9/15/22, 15:32 - Martin: Yeah... you can download the Gostudent app and create your own account
+9/15/22, 15:32 - Philipp: Is that really necessary?
+9/15/22, 15:32 - Martin: Yes it will help you a lot
+9/15/22, 15:33 - Philip: tell me how
+9/15/22, 15:33 - Martin: You can only pay your tuition through the portal so that you can register courses and at the end you download your results
+9/15/22, 15:33 - Philipp: Sounds easy
+9/15/22, 15:34 - Martin: And saves time, not like manual processes
+9/15/22, 15:34 - Philipp: cool
+9/15/22, 15:47 - Martin: Really cool
+9/15/22, 15:47 - Philipp: can i also download a transcript?
+9/15/22, 15:48 - Martin: No No
+9/15/22, 16:28 - Philipp: How then do i get a transcript?
+9/15/22, 16:28 - Martin: firstly, you go apply at the transcript office then you wait and collect at the department.
+9/15/22, 16:29 - Philipp: Where is the transcript office found?
+9/15/22, 16:29 - Martin: Just at the faculty of arts, it's quite obvious when you get there.
+9/15/22, 20:58 - Philipp: is it done for free
+9/15/22, 20:58 - Martin: Not at all, prices ranges depending on how soon you want to get it
+9/15/22, 20:59 - Philipp: altight good
+9/16/22, 06:11 - Martin: Thanks!
+9/16/22, 06:12 - Philipp: One more question please
+9/16/22, 06:12 - Martin: go on!
+9/16/22, 06:12 - Philipp: How do i take exams...
+9/16/22, 06:34 - Martin: Exams come at the end of every semester, it has its own time table which you will strictly follow
+9/16/22, 06:34 - Philipp: Are they difficult?
+9/16/22, 06:35 - Martin: Not when you are well prepared
+9/16/22, 06:35 - Philipp: Fingers crossed
+9/16/22, 09:44 - Martin: you must study hard ahead of time to get good grades.
+9/16/22, 09:45 - Philipp: and attend all my lectures too
+9/16/22, 09:53 - Martin: Absolutely right
+9/16/22, 09:54 - Philipp: any exam advise for me?
+9/16/22, 09:54 - Martin: Just work hard and avoid any malpractices.
+9/16/22, 09:55 - Philipp: Do students get sanctioned?
+9/16/22, 09:55 - Martin: Most often, when caught cheatinh during exam or even impersonating
+9/16/22, 09:56 - Philipp: how do the sanctions look like
+9/16/22, 09:56 - Martin: You could be dismissed from school or suspended depending on the gravity of your crime
+9/16/22, 09:57 - Philipp: That's a big one
+9/16/22, 09:57 - Martin: Yeah, something you should avoid
+9/16/22, 09:57 - Philipp: I should be carefull...
+9/16/22, 09:57 - Martin: I like that.
+9/16/22, 09:58 - Philipp: 😂
+9/16/22, 09:58 - Martin: Let me know if you need clarification on anything else
+9/16/22, 09:59 - Philipp: I'll be back if i have anymore questions, for now i think i've had enough
+9/16/22, 10:19 - Martin: Glad we could talk
+9/16/22, 10:22 - Philipp: see you around...
+9/16/22, 10:22 - Martin: Have a wonderful time.
